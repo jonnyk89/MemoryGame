@@ -1,0 +1,10 @@
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\bin\Debug\MatchingImagesGame.exe.config
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\bin\Debug\MatchingImagesGame.exe
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\bin\Debug\MatchingImagesGame.pdb
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\obj\Debug\MatchingImagesGame.csprojAssemblyReference.cache
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\obj\Debug\MatchingImagesGame.Form1.resources
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\obj\Debug\MatchingImagesGame.Properties.Resources.resources
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\obj\Debug\MatchingImagesGame.csproj.GenerateResource.cache
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\obj\Debug\MatchingImagesGame.csproj.CoreCompileInputs.cache
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\obj\Debug\MatchingImagesGame.exe
+C:\Users\nn\source\repos\MatchingImagesGame\MatchingImagesGame\obj\Debug\MatchingImagesGame.pdb

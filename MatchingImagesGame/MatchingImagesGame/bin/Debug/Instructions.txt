@@ -1,0 +1,9 @@
+Game rules: 
+This is a memory-based game.
+You must connect all squares with the same image.
+Once you click on two squares, the images of those squares will reveal.
+If the images are the same - you have discovered a pair.
+If they are not the same - they will be hidden again in a second.
+You operate within two-click "rounds".
+
+Have Fun!
